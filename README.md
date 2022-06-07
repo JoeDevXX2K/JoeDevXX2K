@@ -1,4 +1,8 @@
 [![fNjhjUS.gif](https://i.postimg.cc/6pvXJbcg/fNjhjUS.gif)](https://postimg.cc/Xr4h98Tk)
+
+----
+
+[![carbon-2.png](https://i.postimg.cc/nhgqMrvM/carbon-2.png)](https://postimg.cc/PCbCRtVk)
 <h1 align="center">Hi 👋, I'm Joe Dev</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joedevxx2k&label=Profile%20views&color=0e75b6&style=flat" alt="joedevxx2k" /> </p>
@@ -21,5 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joedevxx2k&show_icons=true&locale=en" alt="joedevxx2k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joedevxx2k&" alt="joedevxx2k" /></p>
-
-[![carbon-1.png](https://i.postimg.cc/sDd6TWpW/carbon-1.png)](https://postimg.cc/8s4m5jXk)
