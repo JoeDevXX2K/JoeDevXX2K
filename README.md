@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm I'm Joe Dev</h1>
-<h3 align="center">Developer From Indonesia</h3>
+
+[![coding.gif](https://i.postimg.cc/d0qvGhjM/coding.gif)](https://postimg.cc/G4SZChfz)
+<h1 align="center">Hi 👋, I'm Joe Dev</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joedevxx2k&label=Profile%20views&color=0e75b6&style=flat" alt="joedevxx2k" /> </p>
 
