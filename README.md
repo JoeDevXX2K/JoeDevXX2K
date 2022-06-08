@@ -1,4 +1,4 @@
-[![fNjhjUS.gif](https://i.postimg.cc/6pvXJbcg/fNjhjUS.gif)](https://postimg.cc/Xr4h98Tk)
+[![20220608-145054.png](https://i.postimg.cc/d1nvvS9d/20220608-145054.png)](https://postimg.cc/vg1CthkH)
 
 ----
 <h1 align="center">Hi 👋, I'm Joe Dev</h1>
@@ -23,6 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joedevxx2k&show_icons=true&locale=en" alt="joedevxx2k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joedevxx2k&" alt="joedevxx2k" /></p>
-
-
-[![images-6.png](https://i.postimg.cc/tTBp3mwk/images-6.png)](https://postimg.cc/7GJFDXxJ)
