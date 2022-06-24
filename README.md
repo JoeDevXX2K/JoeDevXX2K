@@ -3,6 +3,8 @@
 ----
 <h1 align="center">Hi 👋, I'm Joe Dev</h1>
 
+[![anime-ok-menhera-chan-1.gif](https://i.postimg.cc/XJygDnRD/anime-ok-menhera-chan-1.gif)](https://postimg.cc/9RCTDHFG)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joedevxx2k&label=Profile%20views&color=0e75b6&style=flat" alt="joedevxx2k" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joedevxx2k" alt="joedevxx2k" /></a> </p>
