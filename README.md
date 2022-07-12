@@ -1,4 +1,4 @@
-[![20220608-145054.png](https://i.postimg.cc/d1nvvS9d/20220608-145054.png)](https://postimg.cc/vg1CthkH)
+[![Picsart-22-07-12-03-05-45-280.jpg](https://i.postimg.cc/mrQGNPgT/Picsart-22-07-12-03-05-45-280.jpg)](https://postimg.cc/675SB5ZP)
 
 ----
 <h1 align="center">Hi 👋, I'm Joe Dev</h1>
